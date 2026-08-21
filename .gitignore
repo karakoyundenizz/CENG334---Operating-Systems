@@ -1,0 +1,5 @@
+.DS_Store
+*.o
+Hw2/hw2
+Hw3/mergeext2fs
+__pycache__/
